@@ -122,3 +122,14 @@ Simply install the script using a userscript manager like Tampermonkey, and the 
 
     document.body.appendChild(guiButton);
 })();
+```
+
+## Legal Disclaimer:
+
+This user script, GeoHuntr, is provided on an "as is" basis without any warranty, express or implied. The author, crunny, makes no representations or warranties regarding the accuracy, completeness, or suitability of the script for any particular purpose.
+
+The author assumes no responsibility or liability for any misuse, errors, or issues caused by the script. Users are solely responsible for the usage, implementation, and consequences of installing and running this script. 
+
+By installing and using GeoHuntr, you acknowledge and agree that the author shall not be held responsible for any damages, losses, or adverse effects arising from the use of the script.
+
+Use this script at your own risk.
