@@ -14,6 +14,10 @@ Simply install the script using a userscript manager like Tampermonkey, and the 
 
 *Please note that in order to see the clickable button, once loaded into the game you must refresh the page.*
 
+## Install
+
+[Install GeoHuntr](https://greasyfork.org/en/scripts/485590-geohuntr)
+
 ## Script Code:
 
 ```javascript
