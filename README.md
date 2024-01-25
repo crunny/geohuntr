@@ -2,7 +2,7 @@
 
 *Discord: .crunny*
 
-This script provides a tool to find the location of your current GeoGuessr game.
+This script provides a tool to find the location of your current GeoGuessr game (Singleplayer Modes).
 
 ## Features:
 
